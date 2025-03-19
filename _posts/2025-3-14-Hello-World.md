@@ -3,7 +3,7 @@ layout: post
 title: My Slogan
 ---
 
-SHOWVIBI, Let's Go!
+SHOWVINI, Let's Go!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
